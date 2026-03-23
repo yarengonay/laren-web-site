@@ -11,7 +11,7 @@ Arayüz tasarımlarından önizlemeler:
 
 | Ana Sayfa | Projelerim |
 | :---: | :---: |
-| ![Ana Sayfa](anasayfa.png) | ![Projelerim](projeler.png) |
+| ![Ana Sayfa](anasayfa.png.png) | ![Projelerim](projeler.png.png) |
 
 ## 🛠️ Teknik Detaylar
 * **Frontend:** HTML5, CSS3
