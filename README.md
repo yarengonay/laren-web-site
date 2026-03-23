@@ -1,21 +1,22 @@
-# LAREN | Software & Design Portfolio 🚀
+# LAREN | Software & Design Portfolio 🌐
 
-Hoş geldiniz! Burası benim dijital dünyadaki imzam olan **Laren** markasının ve geliştirdiğim projelerin ana merkezidir. Bilgisayar Programcılığı yolculuğumdaki tüm teknik çalışmalarımı bu çatı altında toplamayı düşünüyorum.
+Bu proje, kişisel markam olan **Laren**'in web tabanlı yüzüdür. HTML ve CSS kullanılarak geliştirilmiş modern bir portfolyo tasarımıdır.
 
-## 🖋️ Laren Hakkında
-Laren, sadece bir isim değil; geliştirdiğim projelerde estetiği ve işlevselliği birleştirdiğim kişisel markamdır. 
+## ✨ Canlı Demo
+Sistemi canlı olarak buradan inceleyebilirsiniz: 
+👉 [Laren Web Site Canlı İzle](https://yarengonay.github.io/laren-web-site/)
 
-## 📂 Projelerim
-Şu ana kadar Laren markası altında hayata geçirdiğim çalışmalar:
+## 📸 Ekran Görüntüleri
+Arayüz tasarımlarından önizlemeler:
 
-* **Laren Mobile App:** Jetpack Compose ile geliştirilmiş, modern kafe arayüzü tasarımı.
-* **Laren Web Portfolio:** HTML ve CSS kullanarak hazırladığım, tüm çalışmalarımı sergilediğim web sitem.
-* **Ağ Sistemleri Projesi:** (Yüklediğimizde buraya detayını ekleyeceğiz).
-* *...ve çok yakında yenileri eklenecek!*
+| Ana Sayfa | Projelerim |
+| :---: | :---: |
+| ![Ana Sayfa](anasayfa.png) | ![Projelerim](projeler.png) |
 
-## 🛠️ Yetkinlikler
-* **Diller:** Kotlin (Jetpack Compose), HTML5, CSS3
-* **İlgi Alanları:** Mobil Uygulama Geliştirme, Web Tasarım, Ağ Sistemleri
+## 🛠️ Teknik Detaylar
+* **Frontend:** HTML5, CSS3
+* **Responsive:** Mobil uyumlu tasarım
+* **Yayın:** GitHub Pages
 
 ---
-*Geleceği kodlarken, her projeye bir Laren dokunuşu.*
+*Laren imzasıyla geliştirilmiştir.*
